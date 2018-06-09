@@ -1,0 +1,3 @@
+ユーチューブ,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk,https://www.youtube.com/ --start-maximized
+メール,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk,https://mail.google.com/mail/u/0/#inbox --start-maximized
+マップ,C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk,https://www.google.co.jp/maps --start-maximized
